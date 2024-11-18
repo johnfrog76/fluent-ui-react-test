@@ -56,3 +56,5 @@ export default tseslint.config({
 - Make App Switch Light and Dark themes
 - Switch and use custom colors aka brand variants
 - Show some () components / layout styles
+
+![image](./public/screen_grab.png)
